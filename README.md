@@ -1,5 +1,4 @@
-IlEO ...is my birthday.
-currently learning ...any I think.
+IlEO
 
 <!---
 Sakagawa-IlEO/Sakagawa-IlEO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
